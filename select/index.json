@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "OKACHIMACHI FRIDAY NIGHT",
+  "base_artist": "First Love is Never Returned",
+  "createdAt": "2025-12-03T06:27:59.769167Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "OKACHIMACHI FRIDAY NIGHT",
+      "artist": "First Love is Never Returned",
+      "has_synced": false,
+      "path": "select/01_OKACHIMACHI_FRIDAY_NIGHT_First_Love_is_Never_Returned.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "OKACHIMACHI FRIDAY NIGHT",
+      "artist": "First Love is Never Returned",
+      "has_synced": true,
+      "path": "select/02_OKACHIMACHI_FRIDAY_NIGHT_First_Love_is_Never_Returned.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "OKACHIMACHI FRIDAY NIGHT",
+      "artist": "First Love is Never Returned",
+      "has_synced": false,
+      "path": "select/pl_01_OKACHIMACHI_FRIDAY_NIGHT_First_Love_is_Never_Returned.txt"
+    }
+  ]
+}
